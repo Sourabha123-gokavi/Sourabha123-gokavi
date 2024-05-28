@@ -35,8 +35,7 @@
 
 ## <> Coding platforms
 
-<a href = "//https://codeforces.com/profile/Sourabh_7" ><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> </a>
-<a href = "//https://leetcode.com/Sourabh_26/" ><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+
 <a href = "https://www.hackerrank.com/profile/pes1ug21cs608" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
 <a href = "https://auth.geeksforgeeks.org/user/sourabhag4oev" ><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
 
