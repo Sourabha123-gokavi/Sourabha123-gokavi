@@ -1,6 +1,5 @@
 ![logo](https://github.com/Sourabha123-gokavi/Sourabha123-gokavi/blob/main/github-header-image%20(1).png)
-### Hey There :)  
-### This is Sourabha Gokavi🐾
+# Hello world, I am Sourabha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
 <p><i>
     An undergrad student in computer science and engineering at PES University, Bengaluru, India. DSA,
