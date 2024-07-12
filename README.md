@@ -1,4 +1,4 @@
-![logo](https://github.com/Sourabha123-gokavi/Sourabha123-gokavi/blob/main/github-header-image%20(1).png)
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" >
 # Hello world, I am Sourabha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
 <p><i>
