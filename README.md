@@ -67,4 +67,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabha123-gokavi&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourabha123-gokavi&theme=one_dark_pro)](https://git.io/streak-stats)
+
