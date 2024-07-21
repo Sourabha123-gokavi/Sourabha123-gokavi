@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" >
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">Hello world, I am Sourabha 
-- 🌱 I’m currently learning **Golang and System Design**
 
 
 
+- 🌱 I’m currently learning ** System Design and Open Source Contribution **
 - 💻 All of my projects are available on [GitHub](https://github.com/Sourabha123-gokavi)
-
 - 💬 Ask me about **Programming, Web Development, Cyber Security**
 - 📫 Reach out to me at **sourabhagokavi@gmail.com**
+- 💻 Happy Coding
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
