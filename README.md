@@ -1,6 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" >
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">Hello world, I am Sourabha 
+- 🌱 I’m currently learning **Golang and System Design**
 
+
+
+- 💻 All of my projects are available on [GitHub](https://github.com/Sourabha123-gokavi)
+
+- 💬 Ask me about **Programming, Web Development, Cyber Security**
+- 📫 Reach out to me at **sourabhagokavi@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
@@ -13,6 +20,9 @@
 <img allign="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> </img>
 <!--
 **Sourabha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+
+
+
 
 ## 💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
