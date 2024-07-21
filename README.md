@@ -63,8 +63,6 @@
 
 ## 🏆 GitHub Stats
 
-![Sourabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourabha123-gokavi&show_icons=true&rank_icon=github&theme=one_dark_pro)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabha123-gokavi&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
