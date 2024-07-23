@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** System Design and Open Source Contribution **
 - 💻 All of my projects are available on [GitHub](https://github.com/Sourabha123-gokavi)
-- 💬 Ask me about ** DataBase, Operating System, Programming, Web Development **
+- 💬 Ask me about ** DataBase, Operating System,DSA,Programming, Web Development **
 - 📫 Reach out to me at **sourabhagokavi273@gmail.com**
 - 💻 Happy Coding
 
